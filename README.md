@@ -3,7 +3,7 @@ End-to-end Banking Risk Analytics project using SQL, Excel and Power BI.
 # Banking Risk & Financial Performance Dashboard
 
 ##  Project Overview
-This project analyzes banking loan exposure and deposit performance using SQL, Excel, and Power BI.
+This end-to-end banking analytics project analyzes loan exposure, deposit trends, and customer risk segmentation using SQL, Excel, and Power BI.
 
 The goal is to identify risk patterns across income groups and evaluate financial performance metrics.
 
@@ -30,9 +30,19 @@ The goal is to identify risk patterns across income groups and evaluate financia
 - Deposit levels remain lower than loan exposure across segments.
 
 ---
+## Data Preparation
 
+- Cleaned missing values using Excel
+- Created Income Bands using estimated income
+- Standardized categorical values
+- Performed exploratory data analysis using SQL
 ---
+## Business Recommendations
 
+- Monitor mid-income segment for loan risk exposure.
+- Improve deposit mobilization strategies.
+- Focus on balancing loan-to-deposit ratio.
+---
 ##  Files Included
 - Banking_Risk_Analytics.pbix
 - banking_clean.xlsx
